@@ -21,5 +21,5 @@ separately before I begin the next mission.
 
 ## Progress
 
-Mission 0: Complete.
-Missions 1–8: not started.
+Mission 0-1: Complete.
+Missions 2–8: not started.
