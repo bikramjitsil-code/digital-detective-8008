@@ -49,8 +49,8 @@ Pull Request direction:
 - Destination / base branch: `main`.
 
 Purpose: Propose adding the learning summary to the root README.
-Pull Request URL: [Pending creation.]
-Pull Request status: [Not created yet.]
+Pull Request URL: [https://github.com/bikramjitsil-code/digital-detective-8008/pull/1]
+Pull Request status: [Open]
 Merge instruction from instructor: [I have not received an instruction to merge the Pull Request.]
 
 A branch provides a separate line of development. A Pull Request allows proposed changes to be reviewed before they are incorporated into another branch.
@@ -96,11 +96,11 @@ Branches allow changes to be developed separately. Pull Requests make it possibl
 
 ## 5. Difficulties faced
 
-[RECORD ACTUAL RESULT, or “No major difficulties”.]
+[I saw “Open 0” on GitHub and thought my Pull Request was already open. I looked for its title and URL, but the list was empty. I also couldn’t select `update-about` because I hadn’t created the branch yet.]
 
 ## 6. How I resolved them
 
-[RECORD ACTUAL RESULT, or “Not applicable”.]
+[I learned that “Open 0” meant there were zero open Pull Requests. I created the `update-about` branch, added the “My Learning” section to the root README, committed the change and pushed the branch. GitHub then showed `update-about` as a compare option, and I selected `main` as the base branch.]
 
 ## 7. Evidence / files
 
@@ -118,4 +118,4 @@ Branch commit: `Add my learning summary to README`
 
 Final mission commit: `Complete Git and GitHub collaboration mission`
 
-Commit, push and GitHub verification: [RECORD ACTUAL RESULT]
+Commit, push and GitHub verification: [I pushed the `update-about` branch to GitHub and verified that the Pull Request showed my “My Learning” section in the root README. I left the Pull Request open because my instructor had not requested a merge.]
