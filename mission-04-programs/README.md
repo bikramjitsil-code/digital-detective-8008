@@ -76,4 +76,4 @@ Compiler and interpreter describe approaches to processing programs, and real im
 
 Planned commit message: `Compare compilers and interpreters`
 
-Commit, push and GitHub verification: [RECORD ACTUAL RESULT]
+Commit, push and GitHub verification: [I pushed the Mission 4 commit to `main` and verified on GitHub that `hello.py` and my compiler–interpreter comparison were both visible.]
