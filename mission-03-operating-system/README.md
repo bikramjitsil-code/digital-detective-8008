@@ -135,4 +135,4 @@ File permissions determine which operations an account is allowed to perform.
 
 Planned commit message: `Document operating system and file management`
 
-Commit, push and GitHub verification: [Not verified]
+Commit, push and GitHub verification: [I pushed Mission 3 to `main` and verified that my operating-system observations and file-permission results were visible on GitHub.]
