@@ -19,6 +19,11 @@ The purpose of this assignment is to understand how a computer works through pra
 Each mission will be completed, documented, committed and pushed
 separately before I begin the next mission.
 
+## My Learning
+
+- I learned that Git records the changes I save and stage. When my root README update was missing on GitHub, I checked the commit and saw that only the setup README had changed.
+- I learned how to read file permissions using `ls -l`. On my `notes.txt` file, the owner permissions were `rw-`, which meant I could read and edit the file but could not run it directly.
+
 ## Progress
 
 Mission 0-5: Complete.
