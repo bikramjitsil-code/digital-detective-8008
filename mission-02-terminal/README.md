@@ -79,7 +79,7 @@ Directory listings help check available files, confirm names and verify that fil
 - `-a`: include hidden entries.
 - `-h`: use human-readable file sizes.
 
-Observed difference between the listings: [RECORD ACTUAL RESULT]
+Observed difference between the listings: [When I ran `ls`, I saw the names of my practice files. When I ran `ls -lah`, each entry appeared on its own line with details such as permissions, file size and modification time. I also saw `.` and `..`, which represent the current folder and its parent folder.]
 
 Pipe command:
 
