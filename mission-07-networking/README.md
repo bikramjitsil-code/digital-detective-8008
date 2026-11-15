@@ -102,4 +102,4 @@ Protocols provide communication rules. In client-server communication, the clien
 
 Planned commit message: `Explain networking concepts and website communication`
 
-Commit, push and GitHub verification: [RECORD ACTUAL RESULT]
+Commit, push and GitHub verification: [I committed the Mission 7 work with the message `Explain networking concepts and website communication` and pushed it to `main`. I opened the README on GitHub and verified that my network concepts table, ping and DNS results, and six-step website explanation were visible.]
