@@ -18,7 +18,7 @@ Repository: [digital-detective-8008](https://github.com/bikramjitsil-code/digita
 | [3 — Operating system](../mission-03-operating-system/README.md) | I checked my macOS version, storage, processes and file permissions. My process snapshot showed that `zsh` started `top`, and the owner permissions on `notes.txt` were `rw-`. | Complete |
 | [4 — Programs](../mission-04-programs/README.md) | I used `hello.py` to display `Hello from Python` and compared how compilers and interpreters process instructions. | Complete |
 | [5 — Numbers and data](../mission-05-numbers-data/README.md) | I worked through decimal, binary and hexadecimal conversions, checked them in Python and built a number converter. I also compared the character codes for `A` and `a`. | Complete |
-| [6 — Git and GitHub](../mission-06-git-github/README.md) | I used the `update-about` branch to add a `My Learning` section to the root README. The Pull Request proposes that change for `main`. | Complete. The PR was left open because my instructor had not requested a merge. |
+| [6 — Git and GitHub](../mission-06-git-github/README.md) | I used the `update-about` branch to add a `My Learning` section to the root README. The Pull Request was reviewed and merged into `main`. | Complete — Pull Request #1 merged |
 | [7 — Networking](../mission-07-networking/README.md) | I tested `example.com`. All four ping requests received replies, packet loss was 0%, and the average round-trip time was 41.769 ms. The DNS lookup returned two IPv4 addresses. | Complete |
 | [8 — Final report](README.md) | I brought together the mission results, documented corrections and recorded the remaining publication and submission checks. | Complete |
 
@@ -49,7 +49,7 @@ A checked box records a completed activity. An empty box records a check or acti
 - [x] Every mission README on GitHub contains all required sections and has no unfinished placeholders.
 - [x] Each mission has a dedicated, meaningful commit visible in the GitHub history.
 - [x] The published Mission 5 README shows three positive test inputs and their actual converter outputs.
-- [x] The branch, Pull Request link and its recorded status have been checked on GitHub.
+- [x] The branch, Pull Request link and its recorded status (merged) have been checked on GitHub.
 - [x] The published Mission 7 README includes the network concepts, observations and website-opening explanation.
 - [x] All nine links in the root README work, and the root README includes the topics, learning summary, converter instructions and note about separate mission commits.
 - [x] Published screenshots and command outputs have been reviewed for private information.
