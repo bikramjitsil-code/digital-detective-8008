@@ -80,9 +80,8 @@ For Mission 6, I used the `update-about` branch to propose a change to this READ
 
 | Item | Status |
 |---|---|
-| Missions 0–6 | Completed |
-| Mission 7 | Networking activities completed and results recorded |
-| Mission 8 | Final report prepared. The final checklist and publication status are recorded in the [Mission 8 README](mission-08-final-report/README.md). |
+| Missions 0–7 | Completed |
+| Mission 8 | Final report and repository verification completed. The final checklist is recorded in the [Mission 8 README](mission-08-final-report/README.md). |
 | Google Form submission | Pending |
 
 Repository URL: https://github.com/bikramjitsil-code/digital-detective-8008

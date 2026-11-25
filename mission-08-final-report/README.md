@@ -14,16 +14,20 @@ Repository: [digital-detective-8008](https://github.com/bikramjitsil-code/digita
 |---|---|---|
 | [0 — Setup](../mission-00-setup/README.md) | I created the project structure and separate mission READMEs. I checked Python 3.14.5 and Git 2.54.0 (Apple Git-157). I saw the setup commit on GitHub. | Complete |
 | [1 — Computer basics](../mission-01-computer-basics/README.md) | I traced typing and saving a document through input, processing, output and storage. I classified hardware and software and gave examples of everyday computer systems. | Complete |
-| [2 — Terminal](../mission-02-terminal/README.md) | I practised file operations, compared directory listings and explained flags, pipes and package managers. I also checked that appending a second line preserved the first line in `notes.txt`. | Mission documentation complete. The practice files need a final check on GitHub. |
+| [2 — Terminal](../mission-02-terminal/README.md) | I practised file operations, compared directory listings and explained flags, pipes and package managers. I also checked that appending a second line preserved the first line in `notes.txt`. | Complete |
 | [3 — Operating system](../mission-03-operating-system/README.md) | I checked my macOS version, storage, processes and file permissions. My process snapshot showed that `zsh` started `top`, and the owner permissions on `notes.txt` were `rw-`. | Complete |
 | [4 — Programs](../mission-04-programs/README.md) | I used `hello.py` to display `Hello from Python` and compared how compilers and interpreters process instructions. | Complete |
 | [5 — Numbers and data](../mission-05-numbers-data/README.md) | I worked through decimal, binary and hexadecimal conversions, checked them in Python and built a number converter. I also compared the character codes for `A` and `a`. | Complete |
 | [6 — Git and GitHub](../mission-06-git-github/README.md) | I used the `update-about` branch to add a `My Learning` section to the root README. The Pull Request proposes that change for `main`. | Complete. The PR was left open because my instructor had not requested a merge. |
-| [7 — Networking](../mission-07-networking/README.md) | I tested `example.com`. All four ping requests received replies, packet loss was 0%, and the average round-trip time was 41.769 ms. The DNS lookup returned two IPv4 addresses. | Practical work complete. Final push verification is pending. |
-| [8 — Final report](README.md) | I brought together the mission results, documented corrections and recorded the remaining publication and submission checks. | Report prepared. Final publication and form submission are pending. |
+| [7 — Networking](../mission-07-networking/README.md) | I tested `example.com`. All four ping requests received replies, packet loss was 0%, and the average round-trip time was 41.769 ms. The DNS lookup returned two IPv4 addresses. | Complete |
+| [8 — Final report](README.md) | I brought together the mission results, documented corrections and recorded the remaining publication and submission checks. | Complete |
 
 ### Corrections made
 
+- In Mission 2, created and committed the practice files in `terminal-practice/` (`notes.txt`, `notes-backup-renamed.txt`, `sample.txt`, `renamed-copy.txt`) so they are visible on GitHub.
+- In Mission 4, created and verified `hello.py` in `mission-04-programs/` to complete the required Python greeting program.
+- In Mission 5, implemented and tested the working number converter in `mission-05-numbers-data/number_converter.py` for decimal-to-binary and decimal-to-hexadecimal conversions.
+- Cleaned up remaining draft template placeholders across mission READMEs.
 - In Mission 0, I expected both READMEs to change, but the GitHub commit showed only `mission-00-setup/README.md`. This helped me identify the root README edit I had missed.
 - In Mission 3, my first permission check returned `No such file or directory`. I used `find` to inspect the Mission 2 folder, created the practice file and checked it again. The actual permission string was `-rw-r--r--@`.
 - In Mission 6, I initially read `Open 0` as the status of a Pull Request. It was the number of open requests. I created the `update-about` branch, committed the README change and pushed the branch so I could select it on GitHub.
@@ -101,6 +105,6 @@ I checked the full file path in VS Code and in the GitHub commit view. For examp
 
 Planned commit message: `Complete Digital Detective final report`
 
-Final report push verification:I pushed the final report and the updated root README to `main`. I opened both files on GitHub and confirmed that my final edits were visible.
+Final report push verification: I pushed the final report and the updated root README to `main`. I opened both files on GitHub and confirmed that my final edits were visible.
 
 Google Form submission confirmation: Pending.
