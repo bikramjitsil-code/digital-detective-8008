@@ -99,9 +99,9 @@ A package manager helps install, update, track and remove software packages. It 
 
 Homebrew is a package manager commonly used on macOS. I checked its availability using `command -v brew`.
 
-Homebrew availability: [Homebrew was available on my Mac. brew --version displayed its version, and brew list showed the packages it manages. I only inspected the information and did not install or remove anything.” Copy the version line directly below it]
+Homebrew availability: Homebrew was available on my Mac. `brew --version` displayed its version, and `brew list` showed the packages it manages. I only inspected the information and did not install or remove anything.
 
-Version, if available: [Homebrew 7.0.10]
+Version, if available: `Homebrew 7.0.10`
 
 Package-list observation, if available: [When I ran brew list, I saw the names of the packages Homebrew manages on my Mac. I could check what was installed without changing anything.]
 
@@ -127,11 +127,11 @@ Checking the current directory and filenames helps avoid changing the wrong file
 
 ## 5. Difficulties faced
 
-[“No major difficulties”.]
+No major difficulties.
 
 ## 6. How I resolved them
 
-[“Not applicable”.]
+Not applicable.
 
 ## 7. Evidence / files
 
@@ -146,4 +146,4 @@ Checking the current directory and filenames helps avoid changing the wrong file
 
 Planned commit message: `Complete Terminal and file management mission`
 
-Commit, push and GitHub verification: [Record verified mission 2 completion ]
+Commit, push and GitHub verification: Verified and committed the mission documentation and terminal-practice files, then pushed to GitHub.
