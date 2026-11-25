@@ -66,9 +66,9 @@ Hello from Python
 
 I documented each mission in its own README and used separate commits to record the work for each mission. When I found a mistake, I could correct it in a later commit and review both changes in the [commit history](https://github.com/bikramjitsil-code/digital-detective-8008/commits/main).
 
-For Mission 6, I used the `update-about` branch to propose a change to this README. I left the Pull Request open for review because my instructor had not requested a merge. The [Mission 6 README](mission-06-git-github/README.md) records the Pull Request details.
+For Mission 6, I used the `update-about` branch to propose adding my learning summary to this README. Pull Request #1 was created and merged into `main`. The [Mission 6 README](mission-06-git-github/README.md) records the Pull Request details.
 
-## Final learning summary
+## My Learning
 
 - **Checking my work with Git:** When an edit was missing from GitHub, I opened the commit and saw that only the setup README had changed. I learned to check the full file path, save the edit and review `git status` before committing.
 - **Reading a permission string:** My practice file showed `-rw-r--r--@`. The owner permissions were `rw-`, which told me I could read and edit `notes.txt`. Execute permission was absent.
